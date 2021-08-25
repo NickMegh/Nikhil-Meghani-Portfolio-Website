@@ -36,6 +36,7 @@ hr {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
+    border: 1px solid var(--primary-color);
 }
 
 .link-secondary {
